@@ -12,7 +12,7 @@ Recreate this page, using Gatsby & React (with functional components and hooks):
 
 ## Notes
 
--   Use the existing Prismic data source for the prop-fed data on the Card component. An simple example of usage is on the starter page. You'll probably want to use the GraphiQL explorer (available by default at http://localhost:8000/\_\_\_graphql).
+-   Use the existing Prismic data source for the prop-fed data on the Card component. An simple example of usage is on the starter page. You'll probably want to use the GraphiQL explorer (available by default at http://localhost:8000/___graphql).
 -   The required Google Fonts have been pre-loaded via Gatsby config. You can simply refer to them by name in your styles.
 -   The layout should be designed around an iPhone 11 Pro Max’s screen size. Components should not scale responsively, but they should remain anchored to their page constraints as the window changes size.
 -   The button should trigger a callback passed to the high-level Card component (that callback should simply fire a console log).
